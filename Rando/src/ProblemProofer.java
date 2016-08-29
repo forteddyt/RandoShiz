@@ -2,8 +2,8 @@
 public class ProblemProofer
 {
 
-    private static int      sum;
-    private static int      product;
+    private static int sum;
+    private static int product;
     public static final int AMOUNT = 5;
 
 
